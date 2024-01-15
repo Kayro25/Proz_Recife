@@ -14,8 +14,8 @@ img {
 
 a {
     text-decoration: none;
-    margin-left: 45%;
-    margin-right: 45%;
+    display: flex;
+    justify-content: center;
 }
 
 #links {
